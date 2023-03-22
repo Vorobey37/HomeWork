@@ -43,6 +43,5 @@ string[] GetNewStringArray(string[] text, int lenght)
 
 Clear();
 string[] text = { "hello", "2", "world", ":-)" };
-int lenght = GetLenghtNewStringArray(text);
-string[] newText = GetNewStringArray(text, lenght);
+string[] newText = GetNewStringArray(text, GetLenghtNewStringArray(text));
 Write($"[{String.Join(", ", text)}] -> [{String.Join(", ", newText)}]");
