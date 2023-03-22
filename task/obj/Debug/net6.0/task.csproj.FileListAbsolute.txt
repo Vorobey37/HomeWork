@@ -1,0 +1,15 @@
+C:\Алешино\GeekBrains\Выбор специализации\HomeWork\task\bin\Debug\net6.0\task.exe
+C:\Алешино\GeekBrains\Выбор специализации\HomeWork\task\bin\Debug\net6.0\task.deps.json
+C:\Алешино\GeekBrains\Выбор специализации\HomeWork\task\bin\Debug\net6.0\task.runtimeconfig.json
+C:\Алешино\GeekBrains\Выбор специализации\HomeWork\task\bin\Debug\net6.0\task.dll
+C:\Алешино\GeekBrains\Выбор специализации\HomeWork\task\bin\Debug\net6.0\task.pdb
+C:\Алешино\GeekBrains\Выбор специализации\HomeWork\task\obj\Debug\net6.0\task.csproj.AssemblyReference.cache
+C:\Алешино\GeekBrains\Выбор специализации\HomeWork\task\obj\Debug\net6.0\task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Алешино\GeekBrains\Выбор специализации\HomeWork\task\obj\Debug\net6.0\task.AssemblyInfoInputs.cache
+C:\Алешино\GeekBrains\Выбор специализации\HomeWork\task\obj\Debug\net6.0\task.AssemblyInfo.cs
+C:\Алешино\GeekBrains\Выбор специализации\HomeWork\task\obj\Debug\net6.0\task.csproj.CoreCompileInputs.cache
+C:\Алешино\GeekBrains\Выбор специализации\HomeWork\task\obj\Debug\net6.0\task.dll
+C:\Алешино\GeekBrains\Выбор специализации\HomeWork\task\obj\Debug\net6.0\refint\task.dll
+C:\Алешино\GeekBrains\Выбор специализации\HomeWork\task\obj\Debug\net6.0\task.pdb
+C:\Алешино\GeekBrains\Выбор специализации\HomeWork\task\obj\Debug\net6.0\task.genruntimeconfig.cache
+C:\Алешино\GeekBrains\Выбор специализации\HomeWork\task\obj\Debug\net6.0\ref\task.dll
